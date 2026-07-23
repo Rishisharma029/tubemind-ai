@@ -60,7 +60,7 @@ Feature requests are welcome! Please specify:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tubemind-ai.git
+git clone https://github.com/Rishisharma029/tubemind-ai.git
 
 # Navigate into the project directory
 cd tubemind-ai

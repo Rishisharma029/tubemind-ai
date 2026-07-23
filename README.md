@@ -15,7 +15,7 @@
   <b>TubeMind AI</b> isn't just another video summarizer. It is an enterprise-grade, high-fidelity active learning platform designed to convert long educational YouTube lectures into structured study notes, flippable flashcards, interactive quizzes, SVG mind maps, social media threads, and executable code snippets—instantly.
 </p>
 
-[✨ Live Demo](#) • [📖 Documentation](#) • [🚀 Quick Start](#-quick-start) • [🤝 Contributing](CONTRIBUTING.md)
+[✨ Live Demo](https://rishisharma029.github.io/tubemind-ai/) • [📦 GitHub Repository](https://github.com/Rishisharma029/tubemind-ai) • [🚀 Quick Start](#-quick-start) • [🤝 Contributing](CONTRIBUTING.md)
 
 ---
 
@@ -122,7 +122,7 @@ sequenceDiagram
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tubemind-ai.git
+   git clone https://github.com/Rishisharma029/tubemind-ai.git
    cd tubemind-ai
    ```
 
