@@ -30,8 +30,13 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build Next.js application
+      - name: Build Next.js static export
         run: npm run build
+        env:
+          GITHUB_ACTIONS: "true"
+
+      - name: Add .nojekyll to prevent GitHub Pages Jekyll processing
+        run: touch ./out/.nojekyll
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
